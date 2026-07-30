@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 int main(){
-	int a=11;
+	int a=12;
 	do{
 		printf("We are conducting online lec");
 		
