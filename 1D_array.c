@@ -74,7 +74,7 @@ int main() {
 }*/
 
 // example5
-/*#include <stdio.h>
+#include <stdio.h>
 int main() {
     int arr[5] = {2, 5908, 89, 11, 14};
     int i;
@@ -85,7 +85,7 @@ int main() {
         }
     }
 	return 0;
-}*/
+}
 
 //example 6
 
