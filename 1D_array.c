@@ -74,7 +74,7 @@ int main() {
 }*/
 
 // example5
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
     int arr[5] = {2, 5908, 89, 11, 14};
     int i;
@@ -85,7 +85,7 @@ int main() {
         }
     }
 	return 0;
-}
+}*/
 
 //example 6
 
@@ -105,18 +105,18 @@ int main() {
 //}
 
 // example 7
-//#include <stdio.h>
-//int main() {
-//    int arr[5] = {5, -2, 8, -1, 10};
-//    int count = 0;
-//    int i;
-//	for(i = 0; i < 5; i++) {
-//        if(arr[i] > 0) {
-//            count++;
-//        }
-//    }
-//	printf("Positive numbers are %d", count);
-//	return 0;
-//}
+#include <stdio.h>
+int main() {
+    int arr[5] = {5, -2, 8, -1, 10};
+    int count = 0;
+    int i;
+	for(i = 0; i < 5; i++) {
+        if(arr[i] > 0) {
+            count++;
+        }
+    }
+	printf("Positive numbers are %d", count);
+	return 0;
+}
 
 
